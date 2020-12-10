@@ -6,8 +6,71 @@
       "degree": "PHD",
       "tuition": 15000,
       "likes": "320",
-      "country": "Portugal",
-      "description": "Lorem ipsum"
+      "origin": "Portugal",
+      "course": "Curso",
+      "university": "UMinho",
+      "description": "Lorem ipsum",
+      "photo": "https://imgur.com/I80W1Q0.png"
+    },
+    {
+      "id": 2,
+      "name": "Jonh Doe",
+      "degree": "PHD",
+      "tuition": 15000,
+      "likes": "320",
+      "origin": "Portugal",
+      "course": "Curso",
+      "university": "UMinho",
+      "description": "Lorem ipsum",
+      "photo": "https://imgur.com/I80W1Q0.png"
+    },
+    {
+      "id": 3,
+      "name": "Jonh Doe",
+      "degree": "PHD",
+      "tuition": 15000,
+      "likes": "320",
+      "origin": "Portugal",
+      "course": "Curso",
+      "university": "UMinho",
+      "description": "Lorem ipsum",
+      "photo": "https://imgur.com/I80W1Q0.png"
+    },
+    {
+      "id": 4,
+      "name": "Jonh Doe",
+      "degree": "PHD",
+      "tuition": 15000,
+      "likes": "320",
+      "origin": "Portugal",
+      "course": "Curso",
+      "university": "UMinho",
+      "description": "Lorem ipsum",
+      "photo": "https://imgur.com/I80W1Q0.png"
+    },
+    {
+      "id": 5,
+      "name": "Jonh Doe",
+      "degree": "PHD",
+      "tuition": 15000,
+      "likes": "320",
+      "origin": "Portugal",
+      "course": "Curso",
+      "university": "UMinho",
+      "description": "Lorem ipsum",
+      "photo": "https://imgur.com/I80W1Q0.png"
     }
-  ]
+  ],
+  "student": {
+    "id": 6,
+    "name": "Jonh Doe",
+    "degree": "PHD",
+    "tuition": 15000,
+    "likes": "320",
+    "origin": "Portugal",
+    "course": "Curso",
+    "university": "UMinho",
+    "description": "Lorem ipsum",
+    "photo": "https://imgur.com/I80W1Q0.png"
+  }
 }
