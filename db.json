@@ -1,0 +1,13 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Jonh Doe",
+      "degree": "PHD",
+      "tuition": 15000,
+      "likes": "320",
+      "country": "Portugal",
+      "description": "Lorem ipsum"
+    }
+  ]
+}
