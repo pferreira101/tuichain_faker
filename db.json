@@ -2,12 +2,12 @@
   "students": [
     {
       "id": 1,
-      "name": "Jonh Doe",
-      "degree": "PHD",
+      "name": "João",
+      "degree": "Licenciatura",
       "tuition": 15000,
       "likes": "320",
       "origin": "Portugal",
-      "course": "Curso",
+      "course": "Curso 1",
       "university": "UMinho",
       "description": "Lorem ipsum",
       "photo": "https://imgur.com/I80W1Q0.png"
@@ -19,7 +19,7 @@
       "tuition": 15000,
       "likes": "320",
       "origin": "Portugal",
-      "course": "Curso",
+      "course": "Curso 2",
       "university": "UMinho",
       "description": "Lorem ipsum",
       "photo": "https://imgur.com/I80W1Q0.png"
@@ -27,11 +27,11 @@
     {
       "id": 3,
       "name": "Jonh Doe",
-      "degree": "PHD",
+      "degree": "Licenciatura",
       "tuition": 15000,
       "likes": "320",
       "origin": "Portugal",
-      "course": "Curso",
+      "course": "Curso 2",
       "university": "UMinho",
       "description": "Lorem ipsum",
       "photo": "https://imgur.com/I80W1Q0.png"
